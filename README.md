@@ -2,7 +2,7 @@
 
 We utilize the global and local prior characteristics of  infrared  small targets and propose a level-set based truth annotation pipeline.
 
-The manuscript has been submitted to IEEE Geoscience and Remote Sensing Letters . All codes will be released after the manuscript is accepted.
+The manuscript has been submitted to IEEE Sensors Letters . All codes will be released after the manuscript is accepted.
 
 
 
